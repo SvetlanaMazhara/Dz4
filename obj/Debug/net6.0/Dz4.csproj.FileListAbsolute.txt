@@ -1,0 +1,15 @@
+/Users/svetlanamazara/Desktop/Csharp/Dz4/bin/Debug/net6.0/Dz4
+/Users/svetlanamazara/Desktop/Csharp/Dz4/bin/Debug/net6.0/Dz4.deps.json
+/Users/svetlanamazara/Desktop/Csharp/Dz4/bin/Debug/net6.0/Dz4.runtimeconfig.json
+/Users/svetlanamazara/Desktop/Csharp/Dz4/bin/Debug/net6.0/Dz4.dll
+/Users/svetlanamazara/Desktop/Csharp/Dz4/bin/Debug/net6.0/Dz4.pdb
+/Users/svetlanamazara/Desktop/Csharp/Dz4/obj/Debug/net6.0/Dz4.csproj.AssemblyReference.cache
+/Users/svetlanamazara/Desktop/Csharp/Dz4/obj/Debug/net6.0/Dz4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svetlanamazara/Desktop/Csharp/Dz4/obj/Debug/net6.0/Dz4.AssemblyInfoInputs.cache
+/Users/svetlanamazara/Desktop/Csharp/Dz4/obj/Debug/net6.0/Dz4.AssemblyInfo.cs
+/Users/svetlanamazara/Desktop/Csharp/Dz4/obj/Debug/net6.0/Dz4.csproj.CoreCompileInputs.cache
+/Users/svetlanamazara/Desktop/Csharp/Dz4/obj/Debug/net6.0/Dz4.dll
+/Users/svetlanamazara/Desktop/Csharp/Dz4/obj/Debug/net6.0/refint/Dz4.dll
+/Users/svetlanamazara/Desktop/Csharp/Dz4/obj/Debug/net6.0/Dz4.pdb
+/Users/svetlanamazara/Desktop/Csharp/Dz4/obj/Debug/net6.0/Dz4.genruntimeconfig.cache
+/Users/svetlanamazara/Desktop/Csharp/Dz4/obj/Debug/net6.0/ref/Dz4.dll
